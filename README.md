@@ -36,7 +36,7 @@ Screenshots will be added soon.
 
 ## 📌 Version
 
-Current Version: **v1.0.0**
+Current Version: **v1.1.3**
 
 ## 🛠️ Built With
 
@@ -44,7 +44,7 @@ Current Version: **v1.0.0**
 - Jetpack Compose
 - Material 3
 - Android Media3 (ExoPlayer)
-- Google AdMob
+  
 
 ## 👨‍💻 Developer
 
