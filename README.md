@@ -120,43 +120,33 @@ For published release notes and APK downloads, visit the "GitHub Releases page" 
 ---
 
 📸 Screenshots
+## 📸 Screenshots
 
 Explore the SKT Music Player interface.
 
-Home
+### Home
+![Home Screen](./screenshot/home.png)
 
-"SKT Music Player Home Screen" (screenshots/home.png)
+### Library
+![Library](./screenshot/library.png)
 
-Library
+### Playlists
+![Playlists](./screenshot/playlist.png)
 
-"SKT Music Player Library" (screenshots/library.png)
+### Music Player
+![Music Player](./screenshot/player.png)
 
-Playlists
+### Lyrics
+![Lyrics](./screenshot/lyric.png)
 
-"SKT Music Player Playlist Screen" (screenshots/playlist.png)
+### Settings
+![Settings](./screenshot/setting.png)
 
-Music Player
+### Themes
+![Themes](./screenshot/theme.png)
 
-"SKT Music Player Full Player" (screenshots/player.png)
-
-Lyrics
-
-"SKT Music Player Lyrics Screen" (screenshots/lyric.png)
-
-Settings
-
-"SKT Music Player Settings" (screenshots/setting.png)
-
-Themes
-
-"SKT Music Player Themes" (screenshots/theme.png)
-
-Home Screen Widget
-
-"SKT Music Player Widget" (screenshots/widget.png)
-
----
-
+### Home Screen Widget
+![Home Screen Widget](./screenshot/widget.png)
 📥 Download & Installation
 
 Download the APK
